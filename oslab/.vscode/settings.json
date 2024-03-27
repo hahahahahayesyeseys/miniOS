@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "klib.h": "c",
+        "limits": "c",
+        "file.h": "c"
+    }
+}
